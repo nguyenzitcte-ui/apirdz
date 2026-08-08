@@ -13,7 +13,7 @@ import time
 # ==========================================
 GITHUB_TOKEN = 'ghp_dán_token_github_all_quyền_vào_đây'
 DISCORD_BOT_TOKEN = 'dán_token_bot_discord_vào_đây'
-TAILSCALE_AUTH_KEY = 'tskey-auth-dán_key_tailscale_vào_đây'
+TAILSCALE_AUTH_KEY = 'tskey-auth-kSNM8PzFTG11CNTRL-yZUi8JfBF61u93bxTYcr617z8rvKf2yuT'
 DISCORD_WEBHOOK_URL = 'dán_link_webhook_discord_vào_đây'
 # ==========================================
 
