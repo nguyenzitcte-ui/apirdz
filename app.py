@@ -11,7 +11,7 @@ import time
 # ==========================================
 # ĐIỀN 4 THÔNG TIN CỦA BẠN VÀO ĐÂY LÀ XONG!
 # ==========================================
-GITHUB_TOKEN = 'ghp_dán_token_github_all_quyền_vào_đây'
+GITHUB_TOKEN = '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'
 DISCORD_BOT_TOKEN = 'MTMzMDg4Nzk2NDI2NzUxNTkzNA.GszKQZ.WO2HdvlCP_TmaD-erdYnEwtLtkjpr-dpGgCqig'
 TAILSCALE_AUTH_KEY = 'tskey-auth-kSNM8PzFTG11CNTRL-yZUi8JfBF61u93bxTYcr617z8rvKf2yuT'
 DISCORD_WEBHOOK_URL = 'https://discord.com/api/webhooks/1535643383131930645/sFO61x-43ru7AVEGB4QuTWRlfKfAqO61xczlvx7Sq1LWRzEJYJZpL67ihJM51AA57crD'
